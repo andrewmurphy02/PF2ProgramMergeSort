@@ -1,1 +1,1 @@
-# Merge Sort Program – Created a three-way merge sort that takes a list of jumbled data and sorts it in reverse order.
+# Merge Sort Program – Created a classic merge sort and a three-way merge sort that takes a list of jumbled data and sorts it in reverse order. It is designed to compare the efficiency of the two sorting techniques.
